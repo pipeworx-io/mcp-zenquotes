@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.pipeworx-io/zenquotes",
+  "title": "Zenquotes",
+  "description": "ZenQuotes MCP — wraps ZenQuotes API (free, no auth) with a dummyjson",
+  "version": "1.0.1",
+  "websiteUrl": "https://pipeworx.io/packs/zenquotes",
+  "repository": {
+    "url": "https://github.com/pipeworx-io/mcp-zenquotes",
+    "source": "github"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://gateway.pipeworx.io/zenquotes/mcp"
+    }
+  ]
+}
