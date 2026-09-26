@@ -9,7 +9,7 @@ import { CallToolRequestSchema, ListToolsRequestSchema } from '@modelcontextprot
 import pack from './index.js';
 
 const server = new Server(
-  { name: '@pipeworx/mcp-zenquotes', version: '1.0.2' },
+  { name: '@pipeworx/mcp-zenquotes', version: '1.0.3' },
   { capabilities: { tools: {} } },
 );
 
