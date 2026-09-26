@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-zenquotes",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ZenQuotes MCP — wraps ZenQuotes API (free, no auth) with a dummyjson",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-9119ad9a1ac932d19ac2cc4e57d4e47abdf1bb7bb923397ca94bc66e2012729c",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-6d11bc8362cc6d7fec4b94a8c75e82a87247f47ed3fd79b212b91fd857ff78e5",
+    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
   }
 }
